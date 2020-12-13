@@ -1,4 +1,7 @@
 html {
-  font-size: 10px; /* px bedeutet 'pixels': die Schriftgröße wird auf 10 Pixel gesetzt  */
+  font-size: 16px; /* px bedeutet 'pixels': die Schriftgröße wird auf 10 Pixel gesetzt  */
   font-family: font-family: 'Roboto', sans-serif; /* hier kommt der Name der ausgewählten Schriftfamilie hin */
+}
+body {
+  font-size: 16px; 
 }
